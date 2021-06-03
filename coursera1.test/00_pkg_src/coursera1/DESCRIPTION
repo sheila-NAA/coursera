@@ -1,0 +1,20 @@
+Package: coursera1
+Title: Sheila Reverse Function
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sheila",
+           family = "Amoafo",
+           role = c("aut", "cre"),
+           email = "amoafosheila@outlook.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package takes a string of letters or numbers and reverses them.
+Imports: magrittr
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2021-06-03 18:40:20 UTC; amoaf
+Author: Sheila Amoafo [aut, cre] (YOUR-ORCID-ID)
+Maintainer: Sheila Amoafo <amoafosheila@outlook.com>
